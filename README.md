@@ -1,8 +1,5 @@
-#  📊📱 Mobile-Phone-Sales-Analysis-2024
+#📱 Mobile-Phone-Sales-Analysis-2024
 This project is my submission for the **Onyx Data DNA Challenge - May 2025**. The challenge involved analyzing mobile phone sales data from 2024 to uncover insights about product performance, customer behavior, sales channels, and regional trends. The final output is an interactive Power BI dashboard and technical report.
-
-![Mobile Sales Dashboard](https://github.com/user-attachments/assets/4b98b600-1502-40ed-b7b7-80bb3e0b7627)
-
 
 ## 🎯 Objectives
 The key goals of this analysis were to:
@@ -14,7 +11,7 @@ The key goals of this analysis were to:
 - Detect month-over-month sales trends and seasonal fluctuations.
 
 ## 📂 Access the Dataset
-The dataset used in this project is publicly available on the [ONYX Data website](https://www.onyxdata.co.uk/data-dna) and has also been included in this repository for easy access. Simply locate the file titled "Onyx Data - DataDNA Dataset Challenge - Mobile Phone Sales Dataset - May 2025" in the repository and click the Download button.
+The dataset used in this project is publicly available on the [ONYX Data website](https://www.onyxdata.co.uk/data-dna) and has also been included in this repository for easy access. Simply locate the file titled "Mobile Phone Sales Dataset - May 2025.xlsx" in the repository and click the Download button.
 
 ## 🔍 Key Findings
 - **Top Brands**: OnePlus led in unit sales, while Apple topped revenue, highlighting brand positioning differences.
@@ -36,6 +33,7 @@ The dataset used in this project is publicly available on the [ONYX Data website
 ## 💡 Final Thoughts
 This project highlights the power of data storytelling using Power BI to extract actionable insights from complex sales data. While limited by the absence of cost and customer satisfaction metrics, it provides a robust foundation for strategic decisions in marketing, inventory, and customer engagement.
 
-📘 The **full technical report** detailing methodology, visuals, and expanded analysis is included in this repository for further exploration. Simply located the file titled "Mobile Sales Analysis Report.pdf"
+📘 The full technical report with methodology, visuals, and analysis is available in this repository. Just find the file titled 'Mobile Sales Analysis Report.pdf'.
 
 ---
+![Mobile Sales Dashboard](https://github.com/user-attachments/assets/4b98b600-1502-40ed-b7b7-80bb3e0b7627)
